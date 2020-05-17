@@ -1,7 +1,7 @@
 # COVID19
 Is it safe to reopen California?
 
-Medium Article : https://medium.com/@amney.mounir/is-it-safe-to-re-open-california-a846bc3afa57
+Medium Article : https://medium.com/@amney.mounir/is-it-safe-to-re-open-california-e70edda8f878
  
 For this analysis, I will use the dataset of COVID-19 by counties retrieved from Kaggle. The focus of this analysis will be on the state of California that has around 70,000 cases and 3,000 deaths. 
 Number of cases and deaths in California from January to May
