@@ -1,19 +1,23 @@
-# COVID 19 in California
-# Is it safe to reopen California?
+# Is it safe to re-open California?
 
+## Analysis of the COVID-19 Data for California Counties
+>### Libraries use
+- pandas
+- numpy
+- matplotlib
+- seaborn
 
-- Libraries used : Pandas, numpy, matplotlib, seaborn
-- COVID 19 by County Dataset from Kaggle https://www.kaggle.com/fireballbyedimyrnmom/us-counties-covid-19-dataset
+>### Project motivation
+Currently living in San Francisco, I made this analysis to determine what is the safest county to be at when the lockdown will be eased. But also what are the ones that should not ease their lockdown policy anytime soon. This is what pushed me to explore the dataset of COVID-19 by counties and try to answer these questions.
+>### Files in the repository
+- us_counties.csv :  The dataset file.
+- COVID-19 California Analysis.ipynb : Notebook file contaning the exploration and analysis of the work.
+- readme.md : The readme file for write-up.
 
-- Project Motivation:
-Currently living in San Francisco, I was interesting into looking what is the safest county to be at when the lockdown will be eased. This is what pushed me to explore the dataset of COVID-19 by counties and try to answer these questions:
+>### Summary of the results
+- Sacramento, Santa Clara, and Contra Costa with their low infection rate and a significant decrease in new cases are the safest counties to re-open.
+- Santa Barbara and Los Angeles should not ease its lockdown policy.
 
-Is it safe to re-open California?
-Which county should not re-open?
-What are the counties that should ease their lockdown policy
-
-Acknowledgements:
-- Kaggle
-- Stackoverflow
-
-Medium Article : https://medium.com/@amney.mounir/is-it-safe-to-re-open-california-e70edda8f878
+>### Acknowledgements
+- kaggle
+- stackoverflow
