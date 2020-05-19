@@ -21,3 +21,4 @@ Currently living in San Francisco, I made this analysis to determine what is the
 >### Acknowledgements
 - kaggle
 - stackoverflow
+- Medium https://medium.com/@amney.mounir/is-it-safe-to-re-open-california-e70edda8f878
